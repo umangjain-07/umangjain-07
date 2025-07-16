@@ -7,16 +7,16 @@
 ## 💫 About Me
 
 🧠 I train machines to think,  
-🎮 code games that fight back,  
-🤖 and build robots that deliver with style.  
+🎮 Code games that fight back,  
+🤖 Build robots that deliver with style.  
 
-Equal parts **dev**, **dreamer**, and **debugger** —  
+Equal parts **dev**, **dreamer**, and **debugger** 
 I turn caffeine into code and wild ideas into real-world automation.  
-If it moves, blinks, or makes decisions — I’ve probably built it... or broken it first. 😉
+If it moves, blinks, or makes decisions — I’ve probably built it... or broken it first. ✨
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://linkedin.com/in/umangjain07" target="_blank">
@@ -64,13 +64,12 @@ If it moves, blinks, or makes decisions — I’ve probably built it... or broke
 
 ## 📊 Coding Breakdown (WakaTime)
 
-> Languages I’ve been hacking with recently (based on % usage):
+> Languages I’ve been hacking with recently
 
 <p >
   <img src="https://wakatime.com/share/@umang_jain_07/7a920fa6-06f8-43d0-9e23-a80d73e29a5f.svg" width="700"/>
 </p>
 
-<!-- Replace with your actual WakaTime share SVG link -->
 
 ---
 
