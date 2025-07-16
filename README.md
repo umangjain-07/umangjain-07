@@ -10,7 +10,7 @@
 🎮 Code games that fight back,  
 🤖 Build robots that deliver with style.  
 
-Equal parts **dev**, **dreamer**, and **debugger** 
+Equal parts **dev**, **dreamer**, and **debugger**   
 I turn caffeine into code and wild ideas into real-world automation.  
 If it moves, blinks, or makes decisions — I’ve probably built it... or broken it first. ✨
 
