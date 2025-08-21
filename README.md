@@ -66,7 +66,7 @@ If it moves, blinks, or makes decisions — I’ve probably built it... or broke
 > Languages I’ve been hacking with recently
 
 <p >
-  <img src="https://wakatime.com/share/@umang_jain_07/7a920fa6-06f8-43d0-9e23-a80d73e29a5f.svg" width="700"/>
+  <img src="https://wakatime.com/share/@umang_jain_07/37212630-6885-4d1c-a474-0ae8e6b250dc.svg" width="700"/>
 </p>
 
 
