@@ -1,12 +1,8 @@
-<div align="center">
-
 # 🚀 Hey there, I'm Umang Jain! 👋
 
 ### 🧠 **Engineer** | 🎮 **Game Developer** | 🤖 **Robot Maker** | 💡 **Idea-to-Code Specialist**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+the+future%2C+one+line+at+a+time;Turning+caffeine+into+code;Making+robots+that+think" alt="Typing SVG" />
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&width=500&lines=Building+the+future%2C+one+line+at+a+time;Turning+caffeine+into+code;Making+robots+that+think)
 
 ---
 
@@ -45,12 +41,8 @@ const umang = {
 
 ## 🌐 Let's Connect!
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/umangjain07)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:umangjainnagda@gmail.com)
-
-</div>
 
 ---
 
@@ -113,34 +105,21 @@ const umang = {
 
 ## 📊 Coding Activity
 
-<div align="center">
-
 ### ⚡ Recent Language Usage
 *What I've been building with lately*
 
-<img src="https://wakatime.com/share/@umang_jain_07/c57532be-5c2a-4e11-8ed5-96518768fab6.svg" alt="WakaTime Stats" width="700"/>
-
-</div>
+<img src="https://wakatime.com/share/@umang_jain_07/c57532be-5c2a-4e11-8ed5-96518768fab6.svg" width="800"/>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=umangjain-07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=umangjain-07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 ---
 
 ## 📈 Contribution Highlights
 
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=umangjain-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-
-</div>
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=umangjain-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-
