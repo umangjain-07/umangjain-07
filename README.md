@@ -14,7 +14,7 @@
 
 ```javascript
 const umang = {
-    role: "Full Stack Developer & Roboticist",
+    role: "Full Stack Developer & Game Dev",
     code: ["Python", "C#", "JavaScript", "C++", "Dart"],
     interests: ["AI/ML", "Robotics", "Game Development", "IoT"],
     currentFocus: "Building intelligent automation systems",
