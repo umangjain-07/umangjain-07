@@ -44,11 +44,24 @@ If it moves, blinks, or makes decisions — I’ve probably built it... or broke
 
 ### 🚀 Libraries, Tools & Frameworks
 <p>
+     <img src="https://img.shields.io/badge/ROS2_Humble-339933?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2_Nav2-0A66C2?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/SLAM_Techniques-FF5733?style=for-the-badge&logo=mapbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
+
+### 🚀 Microcontrollers & Platforms
+<p>
+  <img src="https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge&logo=esp32&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_Mega-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino_R4-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### 🛠️ Dev & Design Tools
